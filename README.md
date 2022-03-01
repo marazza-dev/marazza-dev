@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @marazza-dev
 - 👀 I’m interested in UI/UX and front-end coding
 - 🌱 I’m currently on my way to master React framework
-- 💞️ I'm a passionate coder, always ready to learn new stuff! 
+- 💻 I'm a passionate coder, always ready to learn new stuff! 
 - 📫 How to reach me --> marazzani.dev@gmail.com
 
 <!---
