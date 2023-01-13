@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @marazza-dev
 - 👀 I’m interested in UI/UX and web development
-- 🌱 I’m currently on my way to master React framework
+- 🌱 I’m currently on my way to master Typescript
 - 💻 I'm a passionate coder, always ready to learn new stuff! 
 - 📫 How to reach me --> marazzani.dev@gmail.com
 
